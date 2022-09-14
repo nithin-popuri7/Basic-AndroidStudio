@@ -58,7 +58,8 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
-
+```
+```
 ### activity_main.xml
 
 <?xml version="1.0" encoding="utf-8"?>
