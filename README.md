@@ -1,6 +1,6 @@
 ### Basic-AndroidStudio
-## Developed:P.Siva Naga Nithin
-## Registered Number: 212221240037
+Developed:P.Siva Naga Nithin
+Registered Number: 212221240037
 
 ### MainActivity.java
 ```
