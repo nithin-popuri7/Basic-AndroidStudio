@@ -82,22 +82,17 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ### OUTPUT
+![onstart](https://user-images.githubusercontent.com/94154780/190152912-c3856c2c-6b24-46f1-8f8f-aba62824e131.png)
+![onpause](https://user-images.githubusercontent.com/94154780/190153009-7b6a00ea-707e-46b9-b300-61f4ac6b
+![oncreate](https://user-images.githubusercontent.com/94154780/190153068-c048fd90-baa6-482b-9512-f0dcbfb3c74b.png)
+b37c.png)
+![ondestroy](https://user-images.githubusercontent.com/94154780/190153128-dd07708b-172d-4b53-89cd-839c586bdc77.png)
+![onresume](https://user-images.githubusercontent.com/94154780/190153184-9d26c5e2-db43-4ec7-bb14-aa313bd7de15.png)
+![onrestart](https://user-images.githubusercontent.com/94154780/190153212-e775bd1c-5fbf-4114-97b5-e05b578064a3.png)
 
-![exp1](https://user-images.githubusercontent.com/94154780/190052416-25a54867-0c4b-42b5-af15-e62311575004.png)
-
-![exp1 1](https://user-images.githubusercontent.com/94154780/190052455-49660791-aa68-4744-895d-d71ca3e0833b.png)
-
-![exp1 2](https://user-images.githubusercontent.com/94154780/190052913-b87b7ed1-05fa-43fa-bf27-cf7801f3af03.png)
 
 
-![exp1 3](https://user-images.githubusercontent.com/94154780/190052488-8be2c88c-bf44-4ce7-8db5-79773331137c.png)
-66af3f.png)
 
-![exp1 4](https://user-images.githubusercontent.com/94154780/190052516-966839c6-5648-4cf0-ac9f-9dd28f100d9f.png)
-
-![exp1 5](https://user-images.githubusercontent.com/94154780/190052552-7416c3dc-9aef-45dc-9d60-1d2316c060d5.png)
-
-![exp1 6](https://user-images.githubusercontent.com/94154780/190052576-444c9655-e5ca-449c-9327-01983990c269.png)
 
 ### Result
 
