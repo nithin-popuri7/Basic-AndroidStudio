@@ -79,3 +79,17 @@ public class MainActivity extends AppCompatActivity {
 
         />
 </RelativeLayout>
+
+### OUTPUT
+[exp1](https://user-images.githubusercontent.com/94154780/190052416-25a54867-0c4b-42b5-af15-e62311575004.png)
+![exp1 1](https://user-images.githubusercontent.com/94154780/190052455-49660791-aa68-4744-895d-d71ca3e0833b.png)
+![exp1 2](https://user-images.githubusercontent.com/94154780/190052471-3ecc6c72-9a2a-448a-b187-8d5bf0!
+[exp1 3](https://user-images.githubusercontent.com/94154780/190052488-8be2c88c-bf44-4ce7-8db5-79773331137c.png)
+66af3f.png)
+![exp1 4](https://user-images.githubusercontent.com/94154780/190052516-966839c6-5648-4cf0-ac9f-9dd28f100d9f.png)
+![exp1 5](https://user-images.githubusercontent.com/94154780/190052552-7416c3dc-9aef-45dc-9d60-1d2316c060d5.png)
+![exp1 6](https://user-images.githubusercontent.com/94154780/190052576-444c9655-e5ca-449c-9327-01983990c269.png)
+
+
+
+
