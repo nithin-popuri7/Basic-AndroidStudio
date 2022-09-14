@@ -85,7 +85,6 @@ public class MainActivity extends AppCompatActivity {
 ![onstart](https://user-images.githubusercontent.com/94154780/190152912-c3856c2c-6b24-46f1-8f8f-aba62824e131.png)
 ![onpause](https://user-images.githubusercontent.com/94154780/190153009-7b6a00ea-707e-46b9-b300-61f4ac6b
 ![oncreate](https://user-images.githubusercontent.com/94154780/190153068-c048fd90-baa6-482b-9512-f0dcbfb3c74b.png)
-b37c.png)
 ![ondestroy](https://user-images.githubusercontent.com/94154780/190153128-dd07708b-172d-4b53-89cd-839c586bdc77.png)
 ![onresume](https://user-images.githubusercontent.com/94154780/190153184-9d26c5e2-db43-4ec7-bb14-aa313bd7de15.png)
 ![onrestart](https://user-images.githubusercontent.com/94154780/190153212-e775bd1c-5fbf-4114-97b5-e05b578064a3.png)
