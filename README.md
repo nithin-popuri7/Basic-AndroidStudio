@@ -81,16 +81,15 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 
 ### OUTPUT
-![github.logo](exp1.png)
 
-[exp1](https://user-images.githubusercontent.com/94154780/190052416-25a54867-0c4b-42b5-af15-e62311575004.png)
+![exp1](https://user-images.githubusercontent.com/94154780/190052416-25a54867-0c4b-42b5-af15-e62311575004.png)
 
 ![exp1 1](https://user-images.githubusercontent.com/94154780/190052455-49660791-aa68-4744-895d-d71ca3e0833b.png)
 
 ![exp1 2](https://user-images.githubusercontent.com/94154780/190052913-b87b7ed1-05fa-43fa-bf27-cf7801f3af03.png)
 
 
-[exp1 3](https://user-images.githubusercontent.com/94154780/190052488-8be2c88c-bf44-4ce7-8db5-79773331137c.png)
+![exp1 3](https://user-images.githubusercontent.com/94154780/190052488-8be2c88c-bf44-4ce7-8db5-79773331137c.png)
 66af3f.png)
 
 ![exp1 4](https://user-images.githubusercontent.com/94154780/190052516-966839c6-5648-4cf0-ac9f-9dd28f100d9f.png)
