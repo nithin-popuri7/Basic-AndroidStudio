@@ -1,6 +1,5 @@
 ### Basic-AndroidStudio
-Developed:P.SIva Naga Nithin
-
+Developed:P.Siva Naga Nithin
 Registered Number: 212221240037
 
 ### MainActivity.java
@@ -97,6 +96,10 @@ public class MainActivity extends AppCompatActivity {
 ![exp1 5](https://user-images.githubusercontent.com/94154780/190052552-7416c3dc-9aef-45dc-9d60-1d2316c060d5.png)
 
 ![exp1 6](https://user-images.githubusercontent.com/94154780/190052576-444c9655-e5ca-449c-9327-01983990c269.png)
+
+### Result
+
+Therefore a program is return to develop a program to detect the various life cycles of an activity. The program is successfully executed.
 
 
 
