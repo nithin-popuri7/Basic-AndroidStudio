@@ -3,7 +3,6 @@ Developed:P.Siva Naga Nithin
 Registered Number: 212221240037
 
 ### MainActivity.java
-
 package com.example.exp1;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -78,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
 
         />
 </RelativeLayout>
+```
 
 ### OUTPUT
 
