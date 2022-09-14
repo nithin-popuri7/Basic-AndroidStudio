@@ -89,6 +89,7 @@ b37c.png)
 ![ondestroy](https://user-images.githubusercontent.com/94154780/190153128-dd07708b-172d-4b53-89cd-839c586bdc77.png)
 ![onresume](https://user-images.githubusercontent.com/94154780/190153184-9d26c5e2-db43-4ec7-bb14-aa313bd7de15.png)
 ![onrestart](https://user-images.githubusercontent.com/94154780/190153212-e775bd1c-5fbf-4114-97b5-e05b578064a3.png)
+![onstop](https://user-images.githubusercontent.com/94154780/190153933-b4a93d11-c85a-45a2-9ab0-a41750ca40d3.png)
 
 
 
