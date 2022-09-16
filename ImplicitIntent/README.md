@@ -64,9 +64,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ~~~
-
-~~~
-
 ## activity_main.xml
 ~~~
 
@@ -101,8 +98,6 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ~~~
-
-
 ## OUTPUT
 
 ![exp2a](https://user-images.githubusercontent.com/94154780/190657156-5e5fecba-71bc-48c7-9298-62a2899010e4.png)
