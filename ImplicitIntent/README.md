@@ -75,7 +75,6 @@ Registeration Number :212221240037
 
 </RelativeLayout>
 ~~~
-
 ~~~
 ## activity_main.xml
 
