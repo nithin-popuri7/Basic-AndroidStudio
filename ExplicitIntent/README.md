@@ -34,9 +34,9 @@ Program to print the text “Explicit Intents”.
 Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
 ```
-```
-## MainActivity.java
 
+## MainActivity.java
+~~~
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -66,9 +66,9 @@ Registeration Number :212221240037
         android:text="Factorial" />
 
 </RelativeLayout>
-
-```
+~~~
 ## SecondActivity.java
+~~~
 
 package com.example.a2b;
 
@@ -101,8 +101,9 @@ public class SecondActivity extends AppCompatActivity {
     }
 
 }
-```
+~~~
 ## activity.main_xml
+~~~
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -151,6 +152,7 @@ public class SecondActivity extends AppCompatActivity {
         android:textSize="30sp"
         />
 </RelativeLayout>
+~~~
 
 
 ## OUTPUT:
