@@ -34,13 +34,12 @@ Program to print the text “Implicit Intent”.
 Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
 ~~~
+
 ~~~
 ## MainActivity.java
 ~~~
 package com.example.ex2a.;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
@@ -66,8 +65,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
-
 ~~~
 
 ~~~
@@ -111,7 +108,6 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ![exp2](https://user-images.githubusercontent.com/94154780/190559748-f05d5b2e-32d2-4b93-a452-16a08dda8f22.png)
 
-![exp2 1](https://user-images.githubusercontent.com/94154780/190559777-743dca14-50b9-4c05-98ed-fb7e69ebf029.png)
 
 ![exp2a](https://user-images.githubusercontent.com/94154780/190657156-5e5fecba-71bc-48c7-9298-62a2899010e4.png)
 
