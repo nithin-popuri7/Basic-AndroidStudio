@@ -34,51 +34,46 @@ Program to print the text “Implicit Intent”.
 Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
 ~~~
+~~~
 ## MainActivity.java
+~~~
+package com.example.ex2a.;
 
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
+import androidx.appcompat.app.AppCompatActivity;
 
-    <TextView
-        android:id="@+id/txtView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Enter the website link"
+import android.content.Intent;
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.net.Uri;
 
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="300dp"
-        android:textSize="25sp"
-        android:textStyle="bold"
-        />
-    <EditText
-        android:id="@+id/edit1"
-        android:layout_height="40dp"
-        android:layout_width="250dp"
-        android:hint="Enter here"
-        android:layout_below="@+id/txtView1"
-        android:layout_marginTop="20dp"
-        android:layout_centerHorizontal="true"
-        />
-    <Button
-        android:id="@+id/Button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Search"
-        android:layout_below="@+id/edit1"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"/>
+public class MainActivity extends AppCompatActivity {
+    EditText edit1;
+    Button Button1;
 
-</RelativeLayout>
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        edit1 = findViewById(R.id.edit1);
+        Button1 = findViewById(R.id.Button1);
+
+        Button1.setOnClickListener(view ->{
+            String  url = edit1.getText().toString();
+            Intent intent = new Intent(Intent.ACTION_VIEW,Uri.parse(url));
+            startActivity(intent);
+        });
+
+    }
+}
+
+
 ~~~
 
 ~~~
+
 ## activity_main.xml
-
+~~~
 
 package com.example.exp2;
 
