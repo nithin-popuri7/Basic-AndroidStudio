@@ -29,12 +29,11 @@ Step 6: open google page using Implicit Intents in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
-/*
+~~~
 Program to print the text “Implicit Intent”.
 Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
-*/
+~~~
 ## MainActivity.java
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -75,7 +74,8 @@ Registeration Number :212221240037
         android:layout_marginTop="20dp"/>
 
 </RelativeLayout>
-
+~~~
+~~~
 ## activity_main.xml
 
 
@@ -109,7 +109,8 @@ public class MainActivity extends AppCompatActivity {
         }
 }
 
-```
+~~~
+
 
 ## OUTPUT
 ![exp2](https://user-images.githubusercontent.com/94154780/190559748-f05d5b2e-32d2-4b93-a452-16a08dda8f22.png)
