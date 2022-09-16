@@ -165,6 +165,20 @@ public class SecondActivity extends AppCompatActivity {
 
 ![exp2b 2](https://user-images.githubusercontent.com/94154780/190561312-9076e837-35c1-4505-b438-1698296fe333.png)
 
+![ex2b](https://user-images.githubusercontent.com/94154780/190659553-ae1feb38-138b-4726-9887-ee6f90589c6d.png)
+
+![ex2b1](https://user-images.githubusercontent.com/94154780/190659666-1ef0c573-e2b3-46a4-b2d1-42fc0f2390a9.png)
+
+![ex2b2](https://user-images.githubusercontent.com/94154780/190659493-07afe6aa-a2c3-44ed-9fda-a8ff2254cda9.png)
+
+![exp2b 3](https://user-images.githubusercontent.com/94154780/190659756-1f94fa84-f73b-4664-821b-533bca1a70b1.png)
+
+![exp2b 4](https://user-images.githubusercontent.com/94154780/190659785-3be03baa-d340-43b8-9ae2-dcefaf4d0fe0.png)
+
+![exp2b 5](https://user-images.githubusercontent.com/94154780/190659886-fbdc8b26-1467-4b8e-8f92-8001cca027f1.png)
+
+
+
 
 
 
