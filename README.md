@@ -60,8 +60,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-```
  ### activity_main.xml
+ ```
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -83,14 +83,32 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 
-### OUTPUT
-![onstart](https://user-images.githubusercontent.com/94154780/190152912-c3856c2c-6b24-46f1-8f8f-aba62824e131.png)
-![onpause](https://user-images.githubusercontent.com/94154780/190154794-6f230618-8533-4364-b769-ed79b8c251fd.png)
-![oncreate](https://user-images.githubusercontent.com/94154780/190153068-c048fd90-baa6-482b-9512-f0dcbfb3c74b.png)
-![ondestroy](https://user-images.githubusercontent.com/94154780/190153128-dd07708b-172d-4b53-89cd-839c586bdc77.png)
-![onresume](https://user-images.githubusercontent.com/94154780/190153184-9d26c5e2-db43-4ec7-bb14-aa313bd7de15.png)
-![onrestart](https://user-images.githubusercontent.com/94154780/190153212-e775bd1c-5fbf-4114-97b5-e05b578064a3.png)
-![onstop](https://user-images.githubusercontent.com/94154780/190153933-b4a93d11-c85a-45a2-9ab0-a41750ca40d3.png)
+### OUTPUT:
+![exp1](https://user-images.githubusercontent.com/94154780/190669055-de4de347-296a-412d-8a5c-93759fd540a1.png)
+
+
+![oncreate](https://user-images.githubusercontent.com/94154780/190668980-43f432e6-6b6e-47cd-ae9e-cc2bc3c884fe.png)
+
+![onstap](https://user-images.githubusercontent.com/94154780/190669157-bed6a110-9f14-4497-b598-89159c4ba2d5.png)
+
+![onrestart](https://user-images.githubusercontent.com/94154780/190669241-4e1fece2-d239-4cfd-9ac6-3187d9824022.png)
+
+![onresume](https://user-images.githubusercontent.com/94154780/190669292-8bb0a61a-7790-4889-9b59-771d9798a76c.png)
+
+![onpause](https://user-images.githubusercontent.com/94154780/190669327-36f85fca-19ad-46d2-ad9a-6145d6712cd6.png)
+
+![ondestroy](https://user-images.githubusercontent.com/94154780/190669502-35a3023a-9a3f-44e4-8ddf-32cd42162c2a.png)
+
+![onstart](https://user-images.githubusercontent.com/94154780/190669585-655edd7e-eeca-4821-8019-3754bb424bed.png)
+
+
+
+
+
+
+
+
+
 
 
 
