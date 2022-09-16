@@ -86,20 +86,22 @@ public class MainActivity extends AppCompatActivity {
 ### OUTPUT:
 ![exp1](https://user-images.githubusercontent.com/94154780/190669055-de4de347-296a-412d-8a5c-93759fd540a1.png)
 
-
 ![oncreate](https://user-images.githubusercontent.com/94154780/190668980-43f432e6-6b6e-47cd-ae9e-cc2bc3c884fe.png)
 
-![onstap](https://user-images.githubusercontent.com/94154780/190669157-bed6a110-9f14-4497-b598-89159c4ba2d5.png)
-
-![onrestart](https://user-images.githubusercontent.com/94154780/190669241-4e1fece2-d239-4cfd-9ac6-3187d9824022.png)
+![onstart](https://user-images.githubusercontent.com/94154780/190669585-655edd7e-eeca-4821-8019-3754bb424bed.png)
 
 ![onresume](https://user-images.githubusercontent.com/94154780/190669292-8bb0a61a-7790-4889-9b59-771d9798a76c.png)
 
+![onstap](https://user-images.githubusercontent.com/94154780/190669157-bed6a110-9f14-4497-b598-89159c4ba2d5.png)
+
 ![onpause](https://user-images.githubusercontent.com/94154780/190669327-36f85fca-19ad-46d2-ad9a-6145d6712cd6.png)
+
+![onrestart](https://user-images.githubusercontent.com/94154780/190669241-4e1fece2-d239-4cfd-9ac6-3187d9824022.png)
+
+![onrestart](https://user-images.githubusercontent.com/94154780/190669241-4e1fece2-d239-4cfd-9ac6-3187d9824022.png)
 
 ![ondestroy](https://user-images.githubusercontent.com/94154780/190669502-35a3023a-9a3f-44e4-8ddf-32cd42162c2a.png)
 
-![onstart](https://user-images.githubusercontent.com/94154780/190669585-655edd7e-eeca-4821-8019-3754bb424bed.png)
 
 
 
