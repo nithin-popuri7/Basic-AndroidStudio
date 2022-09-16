@@ -34,8 +34,6 @@ Program to print the text “Implicit Intent”.
 Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
 ~~~
-
-~~~
 ## MainActivity.java
 ~~~
 package com.example.ex2a.;
