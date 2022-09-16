@@ -38,6 +38,12 @@ Registeration Number :
 ```
 
 ## OUTPUT
+![2b 1](https://user-images.githubusercontent.com/94154780/190546234-0693703c-a0e2-4d5b-b027-863d0302d915.png)
+![exp2b 1](https://user-images.githubusercontent.com/94154780/190546254-ae4f7181-dffe-4d8a-8a35-fd5ab36df6c3.png)
+![exp2b 2](https://user-images.githubusercontent.com/94154780/190546268-63a522af-cca0-4a00-80a2-953e515610c3.png)
+
+
+
 
 
 
