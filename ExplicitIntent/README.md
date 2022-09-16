@@ -153,9 +153,12 @@ public class SecondActivity extends AppCompatActivity {
 </RelativeLayout>
 
 
-## OUTPUT
+## OUTPUT:
+
 ![2b 1](https://user-images.githubusercontent.com/94154780/190561268-46f652b7-f9fe-4d8f-acb2-b77885fc21b2.png)
+
 ![exp2b 1](https://user-images.githubusercontent.com/94154780/190561290-d322f6d6-5991-49d4-a4c6-0341953c543f.png)
+
 ![exp2b 2](https://user-images.githubusercontent.com/94154780/190561312-9076e837-35c1-4505-b438-1698296fe333.png)
 
 
