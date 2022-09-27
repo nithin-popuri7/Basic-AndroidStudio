@@ -117,7 +117,13 @@ Registeration Number :212221240037
 
 </manifest>
 
-## OUTPUT
+## OUTPUT:
+![github.logo](excp.png)
+![github.logo](excp1.png)
+![github.logo](excp2.png)
+![github.logo](2.png)
+<img width="1440" alt="excp" src="https://user-images.githubusercontent.com/94154780/192576693-f9cad4d1-9d4f-45e0-a6a4-e15e5f1e7011.png">
+
 
 
 
