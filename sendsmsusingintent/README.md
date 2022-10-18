@@ -116,14 +116,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-<img width="944" alt="img5" src="https://user-images.githubusercontent.com/94154780/196340828-e66fb715-ee25-4e20-83e5-d7b0d21f0943.png">
-<img width="946" alt="img4" src="https://user-images.githubusercontent.com/94154780/196340843-b84361ff-daa9-4841-ac2b-3bd551f6eab1.png">
-<img width="935" alt="img3" src="https://user-images.githubusercontent.com/94154780/196340847-433e3e01-2c73-42d1-98a0-cec73e3f3aa3.png">
-<img width="208" alt="img2" src="https://user-images.githubusercontent.com/94154780/196340852-d03a746c-5aac-41bb-a951-f59f5fab4198.png">
-<img width="960" alt="img1" src="https://user-images.githubusercontent.com/94154780/196340853-8e0212b3-1d7b-4e65-a9c2-f974142f5345.png">
-<img width="199" alt="img" src="https://user-images.githubusercontent.com/94154780/196340858-84d89865-8f09-41ca-9f4a-a643d81350ab.png">
-
-
+![github.logo](img.png)
 
 
 ## RESULT
