@@ -33,7 +33,15 @@ Registeration Number :212221240037
 ### Program to print the text “calculator operation”.
 ### Activity Main.Java:
 ```
-{
+package com.example.exp7;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
 
     EditText e1, e2;
     TextView t1;
@@ -105,6 +113,7 @@ Registeration Number :212221240037
             t1.setText(num1+"/"+num2+"="+Double.toString(div));
         }
     }
+}
 ```
 ### activity_Main.xml:
 ```
