@@ -34,7 +34,7 @@ Registeration Number:212221240037.
 
 ### Program to display login page.
 ### Main Activity.java:
-
+```
 package com.example.login;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -78,8 +78,9 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-### activity_main.xml:
 
+### activity_main.xml:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
