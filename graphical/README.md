@@ -28,14 +28,72 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by:
-Registeration Number :
-*/
+Developed by:P.Siva Naga Nithin.
+Registeration Number :212221240037.
+```
+MainActivity.java
+```
+package com.example.exp10;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.drawable.BitmapDrawable;
+import android.os.Bundle;
+import android.widget.ImageView;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        Bitmap bg = Bitmap.createBitmap(720, 1280,
+                Bitmap.Config.ARGB_8888);
+        ImageView i = (ImageView) findViewById(R.id.ImageView);
+        i.setBackgroundDrawable(new BitmapDrawable(bg));
+        Canvas canvas = new Canvas(bg);
+        Paint paint = new Paint();
+        paint.setColor(Color.GREEN);
+        paint.setTextSize(50);
+        canvas.drawText("Rectangle", 420, 150, paint);
+        canvas.drawRect(400, 200, 650, 700, paint);
+        canvas.drawText("Circle", 120, 150, paint);
+        canvas.drawCircle(200, 350, 150, paint);
+        canvas.drawText("Square", 120, 800, paint);
+        canvas.drawRect(50, 850, 350, 1150, paint);
+        canvas.drawText("Line", 480, 800, paint);
+        canvas.drawLine(520, 850, 520, 1150, paint);
+
+    }
+}
+```
+activity_main.xml
+```
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ImageView"/>
+</RelativeLayout>
 ```
 
-## OUTPUT
+## OUTPUT:
+![exp10](https://user-images.githubusercontent.com/94154780/204084490-c4afc666-cf2a-47fe-bae2-535aef054e83.png)
+
+![exp10 1](https://user-images.githubusercontent.com/94154780/204084510-fe894cdb-6f45-4a16-a91d-c1d5714f9d4f.png)
+
+
+![exp10 2](https://user-images.githubusercontent.com/94154780/204084499-b28ca247-3c38-4cd0-8f21-7105bf81a889.png)
+
+
 
 
 
