@@ -32,7 +32,7 @@ Program to create and design an android application that draws basic graphical p
 Developed by:P.Siva Naga Nithin.
 Registeration Number :212221240037.
 ```
-MainActivity.java
+## MainActivity.java
 ```
 package com.example.exp10;
 
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-activity_main.xml
+## activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout android:layout_height="match_parent"
