@@ -35,7 +35,7 @@ Program to create and design an android application to draw a shapes using 3D gr
 Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
 ```
-MyGLActivity.java:
+## MyGLActivity.java:
 ```
 package com.example.opengl;
 import androidx.appcompat.app.AppCompatActivity;
