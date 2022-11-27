@@ -36,6 +36,7 @@ Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
 ```
 MyGLActivity.java:
+```
 package com.example.opengl;
 import androidx.appcompat.app.AppCompatActivity;
 import android.opengl.GLSurfaceView;
